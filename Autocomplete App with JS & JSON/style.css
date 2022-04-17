@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, green, red, yellow);
+    
+}
+
+#search{
+    background-image: linear-gradient(to left, blue, rgb(124, 35, 35), brown);
+}
+
+#matchlist{
+    background-image: linear-gradient(to right, indigo, magenta);
+}
+
+.row{
+    font-style: italic;
+}
